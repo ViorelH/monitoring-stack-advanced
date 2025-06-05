@@ -7,5 +7,5 @@ route:
 receivers:
   - name: slack_notifications
     slack_configs:
-      - api_url: "-to be replaced with the actual webhook from slack as this was made for test and it triggers security alerd on github"
+      - api_url: "-to be replaced with the actual webhook from slack as this was made for test and it triggers security alert on github-"
         channel: "#alerts"
